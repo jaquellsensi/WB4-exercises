@@ -1,5 +1,6 @@
-function parsePartCode(partCode) {
-    const supplierCode = partCode.split (":");
+function parsePartCode(code) {
+    const colon = code.split (":");
+    const dash = 
     
 
    
